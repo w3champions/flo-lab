@@ -8,7 +8,7 @@ An experimental tool that allows you to join any running W3C ladder game as an o
 
 ### v0.1.0
 
-[Windows](https://github.com/w3champions/flo-lab/releases/download/flo-tv-0.1.0/flo-tv-windows.zip)
+[Windows](https://github.com/w3champions/flo-lab/releases/download/flo-tv-0.1.0/flo-tv-0.1.0-windows.zip)
 
 ## Changes
 
