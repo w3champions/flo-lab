@@ -1,6 +1,6 @@
 # Experimental FLO Toys
 
-# FloTv
+# FloTV
 
 An experimental tool that allows you to join any running W3C ladder game as an observer (180s delay).
 
