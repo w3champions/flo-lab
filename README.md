@@ -6,15 +6,15 @@ An experimental tool that allows you to join any running W3C ladder game as an o
 
 ## Download
 
-### v0.4.1
+### v0.4.2
 
-[Windows](https://github.com/w3champions/flo-lab/releases/download/flo-tv-0.4.1/flo-tv-0.4.1-Windows.zip)
-[macOS](https://github.com/w3champions/flo-lab/releases/download/flo-tv-0.4.1/flo-tv-0.4.1-macOS.zip)
+[Windows](https://github.com/w3champions/flo-lab/releases/download/flo-tv-0.4.2/flo-tv-0.4.2-Windows.zip)
+[macOS](https://github.com/w3champions/flo-lab/releases/download/flo-tv-0.4.2/flo-tv-0.4.2-macOS.zip)
 
 
 ## Changes
 
-### v0.4.1
+### v0.4.2
 
 #### Fixed
 - 1.34 Support
